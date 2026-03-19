@@ -1,7 +1,8 @@
 # Temple Darshan Reminder App 🪔🌞
-A simple Java console application that helps devotees remember important temple darshan dates.  
+A simple Java console application that helps devotees remember important temple darshan dates. 
 You can add multiple temples and their darshan dates, and the app will remind you if the darshan is today, 
 tomorrow, or how many days are left.
+
 ---
 ## ✨ Features
 - Add multiple temples with their darshan dates.
